@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS `register` (
 
 
 INSERT INTO `register` (`name`, `email`, `password`) VALUES
-('Balaji', 'balaji@gmail.com', 'balu123');
+('Pradeep', 'pradeep@gmail.com', 'pradeep123');
 
 -- --------------------------------------------------------
 
